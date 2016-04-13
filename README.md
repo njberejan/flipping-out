@@ -1,0 +1,1 @@
+Welcome to the readme for this particular project. Please see the notes included in the jupynet notebook file, as that is where the work for this assignment was completed and I have also laid out my thought process there as well.
